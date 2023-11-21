@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "random": "cpp",
+        "iostream": "cpp",
+        "complex": "cpp",
+        "cstdlib": "cpp",
+        "valarray": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "xhash": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "xstring": "cpp",
+        "regex": "cpp",
+        "sstream": "cpp"
+    }
+}
